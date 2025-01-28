@@ -52,8 +52,7 @@ Olá! Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender
 ---
 
 💬 **Entre em contato comigo:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/matheussouza03/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Krony03)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/matheussouza03/)
 
 ---
 
